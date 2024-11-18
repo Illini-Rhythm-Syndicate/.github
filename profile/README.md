@@ -1,5 +1,5 @@
 <a id="readme-top"></a>
-![Static Badge](https://img.shields.io/badge/Washing-Machines-blue?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Rhythm-Games-blue?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Are-Awesome-blue?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/Credibility-101%25-green?style=for-the-badge)
 
