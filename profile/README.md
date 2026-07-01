@@ -7,7 +7,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Illini-Rhythm-Syndicate/.github">
-    <img src="images/seal.png" alt="Logo" width="80" height="80">
+    <img src="../images/seal.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Rhythm Game Special Interest Syndicate at UIUC</h3>
